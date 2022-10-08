@@ -1,0 +1,9 @@
+{
+    "type" : "IconPack",
+    "name" : "Powered Steel (Film/Video)",
+    "author" : "RecklessBoon",
+    "repository" : "https://github.com/RecklessBoon/Macro-Deck-Icon-Powered-Steel-Film-Video",
+    "packageId" : "RecklessBoon.PoweredSteel.FilmVideo",
+    "version" : "1.0.0",
+    "target-plugin-api-version" : 36
+  }
